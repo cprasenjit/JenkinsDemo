@@ -6,6 +6,6 @@ public class FirstTest {
 	
   @Test
   public void firstmethod() {
-	  System.out.println("this is first class");
+	  System.out.println("Integrated Jenkins");
   }
 }
